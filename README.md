@@ -47,8 +47,4 @@ The system follows a pipeline structure: a bot ingests forwarded content, a scan
 4. Run the bot:
    python bot/bot.py
 
-## Team
-- Ritam Bhattacharjee
-- Debdut Pramanik
-- Manish Das
-- Jeet Bannerjee 
+
